@@ -13,7 +13,8 @@
     "@vkruglikov/react-telegram-web-app": "^2.1.9",
     "lucide-react": "^0.475.0",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "thirdweb": "^5.88.1"
   },
   "devDependencies": {
     "@eslint/js": "^9.19.0",
